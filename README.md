@@ -1,2 +1,2 @@
 # Final-Project-INF-651
-BMI Calculator (Final Project)
+This project is a basic Body Mass Index(BMI) Calculator.
