@@ -1,2 +1,2 @@
 # BMI Calculator
-This project is a basic Body Mass Index(BMI) Calculator.  The project contains an index.html, styles.css, and a script.js document.  
+This project is a basic Body Mass Index(BMI) calculator that validates a user's input and processes the user's input to calculate their BMI.  By submitting their height in feet and inches along with their weight in pounds, the user's form input is processed and their BMI result is calculated and shown on the screen.  Some of the files this project contains include an index.html document for structuring the web-page, a styles.css document for styling the web-page, and a script.js document that conains all the applications functionality.  
